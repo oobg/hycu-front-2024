@@ -1,5 +1,5 @@
 <template>
-  <nav class="flex items-center justify-between p-4 bg-zinc-900 border-b-white border-solid border-b">
+  <nav class="flex items-center justify-between p-4 bg-zinc-900 border-b-white border-solid border-b mb-1">
     <div class="flex items-center gap-2">
       <music-icon class="w-6" />
       <h1 class="text-2xl font-bold text-white">Music</h1>
