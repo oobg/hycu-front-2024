@@ -8,9 +8,7 @@ const router = createRouter({
       path: "/",
       name: "home",
       component: DefaultView,
-      meta: {
-        layout: "default",
-      }
+      meta: { layout: "default" }
     },
     // {
     //   path: "/about",
